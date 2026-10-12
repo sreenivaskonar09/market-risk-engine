@@ -1,0 +1,6 @@
+numpy>=1.24
+pandas>=2.2
+scipy>=1.10
+plotly>=5.18
+dash>=2.14
+dash-bootstrap-components>=1.5
